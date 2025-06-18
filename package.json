@@ -1,6 +1,6 @@
 ﻿{
   "name": "tron-listen-transactions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Real-time tron transactions and trades tracking library",
   "keywords": ["tron", "transactions", "trades", "dex", "trading", "blockchain", "websocket"],
   "main": "dex-tracker.js",
